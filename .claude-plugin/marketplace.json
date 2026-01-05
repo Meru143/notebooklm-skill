@@ -1,0 +1,13 @@
+{
+  "name": "notebooklm-skill-marketplace",
+  "owner": {
+    "name": "PleasePrompto"
+  },
+  "plugins": [
+    {
+      "name": "notebooklm-skill",
+      "description": "NotebookLM skill for Claude Code",
+      "source": "./"
+    }
+  ]
+}

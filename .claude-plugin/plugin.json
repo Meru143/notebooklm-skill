@@ -1,0 +1,10 @@
+{
+  "name": "notebooklm-skill",
+  "version": "1.0.0",
+  "description": "NotebookLM skill for Claude Code",
+  "author": {
+    "name": "PleasePrompto"
+  },
+  "repository": "https://github.com/PleasePrompto/notebooklm-skill",
+  "license": "MIT"
+}
